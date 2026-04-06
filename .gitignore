@@ -1,0 +1,14 @@
+# OS/meta
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Node/venv (just in case)
+node_modules/
+.env
+venv/
+__pycache__/
